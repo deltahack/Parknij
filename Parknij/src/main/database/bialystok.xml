@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<streets city="Białystok">
+	<area id="1">
+		<street>Biała</street>
+		<street>Częstochowska (od ul. Lipowej do Alei Józefa Piłsudskiego)</street>
+		<street>dr Ireny Białówny</street>
+		<street>Grochowa</street>
+		<street>Henryka Sienkiewicza (od ul. Legionowej do Alei Piłsudskiego)</street>
+		<street>Icchoka Malmeda</street>
+		<street>Jana Kilińskiego</street>
+		<street>Józefa Mariańskiego</street>
+		<street>Konstantego Kalinowskiego</street>
+		<street>Kościelna (od Placu Jana Pawła II do Alei Józefa Piłsudskiego)</street>
+		<street>Krakowska</street>
+		<street>ks. Adama Abramowicza</street>
+		<street>Legionowa (od Placu Jana Pawła II do ul. Pięknej)</street>
+		<street>Lipowa</street>
+		<street>Ludwika Waryńskiego (od ul. Lipowej do Alei Józefa Piłsudskiego)</street>
+		<street>Ludwika Zamenhofa</street>
+		<street>Marii Skłodowskiej - Curie (od Placu Uniwersyteckiego do ul. Legionowej)</street>
+		<street>Nowy Świat</street>
+		<street>Piękna</street>
+		<street>Piotrkowska</street>
+		<street>Przejazd</street>
+		<street>Spółdzielcza</street>
+		<street>Stefana Kisielewskiego „Kisiela”</street>
+		<street>Suraska</street>
+		<street>Św.Mikołaja</street>
+		<street>Św.Rocha</street>
+		<street>Tadeusza Mazowieckiego</street>
+		<street>Władysława Liniarskiego</street>
+		<street>Jana Pawła II</street>
+		<street>Niepodległości im. Romana Dmowskiego</street>
+		<street>Rynek Kościuszki</street>
+		<street>Plac Uniwersytecki</street>
+	</area>
+	<area id="2">
+		<street>Adama Mickiewicza (od Pl. dr n. med. Andrzeja Piotra Lussy do ul. Świętojańskiej)</street>
+		<street>Akademicka</street>
+		<street>Angielska (od ul. Czarnej do ul.kard. Stefana Wyszyńskiego)</street>
+		<street>Bohaterów Getta (od Alei Józefa Piłsudskiego do ul. Żabiej)</street>
+		<street>Bohaterów Monte Cassino ( od ul. Stołecznej do ul. Św.Rocha)</street>
+		<street>Brukowa</street>
+		<street>Bułgarska</street>
+		<street>Ciepła (od ul. Jurowieckiej do ul. Ogrodowej)</street>
+		<street>Cieszyńska</street>
+		<street>Cygańska;11) ul.Czarna</street>
+		<street>Elektryczna</street>
+		<street>Fabryczna (od ul. Jurowieckiej do ul. Ogrodowej)</street>
+		<street>gen Józefa Bema (od ul. Cieszyńskiej do ul. kard. Stefana Wyszyńskiego)</street>
+		<street>Grunwaldzka (do ul.kard. Stefana Wyszyńskiego)</street>
+		<street>Henryka Sienkiewicza (od Alei Józefa Piłsudskiego do ul. Ogrodowej)</street>
+		<street>Jana Henryk Dąbrowskiego</street>
+		<street>Jana Klemensa Branickiego (od Pl. dr n. med. Andrzeja Piotra Lussy do ul</street>
+		Świętojańskiej)</street>
+		<street>Jerzego Waszyngtona</street>
+		<street>Jurowiecka</street>
+		<street>kard. Stefana Wyszyńskiego</street>
+		<street>Kijowska</street>
+		<street>Kolejowa</street>
+		<street>Kościelna (od Alei Józefa Piłsudskiego do ul. Warszawskiej)</street>
+		<street>Krótka</street>
+		<street>Legionowa (od ul. Pięknej do ul. Prezydenta Ryszarda Kaczorowskiego)</street>
+		<street>Marii Skłodowskiej - Curie (od ul. Legionowej do Placu Katyńskiego)</street>
+		<street>Marmurowa</street>
+		<street>Mazowiecka (od ul. Jerzego Waszyngtona do ul. Prezydenta Ryszarda Kaczorowskiego)</street>
+		<street>Mławska</street>
+		<street>Młynowa (od ul. Józefa Marjańskiego do ul. kard. Stefana Wyszyńskiego)</street>
+		<street>Odeska</street>
+		<street>Ogrodowa</street>
+		<street>Ołowiana</street>
+		<street>Oskara Sosnowskiego</street>
+		<street>Pałacowa (od ul. Ogrodowej do Alei Józefa Piłsudskiego)</street>
+		<street>Prezydenta Ryszarda Kaczorowskiego (od ul. Jerzego Waszyngtona do ul. Legionowej)</street>
+		<street>Sosnowa (od ul. Oskara Sosnowskiego do ul. kard. Stefana Wyszyńskiego)</street>
+		<street>Stołeczna (od ul.Krakowskiej do ul. kard. Stefana Wyszyńskiego)</street>
+		<street>Sukienna</street>
+		<street>Św.Anny</street>
+		<street>Świętojańska</street>
+		<street>Warszawska (od ul.Henryka Sienkiewicza do ul. Świętojańskiej)</street>
+		<street>Wesoła ( od ul. Mazowieckiej do ul. Jerzego Waszyngtona)</street>
+		<street>Włókiennicza (od Alei Józefa Piłsudskiego do ul. Częstochowskiej)</street>
+		<street>Zwycięstwa (od ul. Kolejowej do ul. Prowiantowej)</street>
+		<street>Zygmunta Krasińskiego</street>
+		<street>Żółta</street>
+		<street>Aleja Józefa Piłsudskiego</street>
+		<street>Plac Katyński</street>
+		<street>Rynek Sienny</street>
+	</area>
+</streets>
