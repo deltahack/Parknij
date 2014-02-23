@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Parknij.iml" filepath="$PROJECT_DIR$/Parknij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parknij/Parknij-Parknij.iml" filepath="$PROJECT_DIR$/Parknij/Parknij-Parknij.iml" />
+    </modules>
+  </component>
+</project>
+
